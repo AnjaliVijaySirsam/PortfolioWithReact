@@ -96,19 +96,19 @@ export const projects = [
 },
 {
   id: 3,
-  title: "Cool Glow Party Store",
-  des: "Znode-based eCommerce platform for party and LED products, featuring custom filters and product previews.",
+  title: "Night flyer Golf",
+  des: "A specialized online store focused on night-golf gear (LED/glow golf balls, tournament packages, accessories) with category listings, product detail pages, and checkout flow.",
   img: "/coolglow.png",
-  iconLists: ["/znode.webp", "/html.jpg", "/css3.png","/js.svg"],
-  link: "https://coolglow.com"
+  iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg"],
+  link: "https://www.nightflyer.com/"
 },
 {
-  id: 4,
-  title: "Packaging Hero",
-  des: "B2B eCommerce platform offering packaging supplies using Znode, built with a clean, responsive layout.",
-  img: "/ph.png",
-  iconLists: ["/znode.webp", "/css3.png", "/js.svg","/html.jpg"],
-  link: "https://www.packaginghero.com/"
+ id: 4,
+  title: "Night flyer Golf",
+  des: "A specialized online store focused on night-golf gear (LED/glow golf balls, tournament packages, accessories) with category listings, product detail pages, and checkout flow.",
+  img: "/coolglow.png",
+  iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg"],
+  link: "https://coolglow.com"
 },
 {
   id: 5,
@@ -133,6 +133,14 @@ export const projects = [
   img: "/nivi.png",
   iconLists: ["/wordpress.svg", "/html.jpg", "/css3.png","/js.svg"],
   link: "https://www.nivisolutions.com/"
+},
+  {
+  id: 8,
+  title: "Packaging Hero",
+  des: "B2B eCommerce platform offering packaging supplies using Znode, built with a clean, responsive layout.",
+  img: "/ph.png",
+  iconLists: ["/znode.webp", "/css3.png", "/js.svg","/html.jpg"],
+  link: "https://www.packaginghero.com/"
 }
 
 ];
