@@ -70,14 +70,6 @@ export const gridItems = [
 ];
 
 export const projects = [
-  // {
-  //   id: 1,
-  //   title: "3D Solar System Planets to Explore",
-  //   des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-  //   img: "/p1.svg",
-  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-  //   link: "/ui.earth.com",
-  // },
   {
   id: 1,
   title: "Gym App with React",
@@ -104,11 +96,11 @@ export const projects = [
 },
 {
  id: 4,
-  title: "Night flyer Golf",
-  des: "A specialized online store focused on night-golf gear (LED/glow golf balls, tournament packages, accessories) with category listings, product detail pages, and checkout flow.",
+  title: "Windy City Novelties",
+  des: "A specialized online store focused on LED/glow golf balls, tournament packages, accessories with category listings, product detail pages, and checkout flow.",
   img: "/coolglow.png",
   iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg"],
-  link: "https://coolglow.com"
+  link: "https://www.windycitynovelties.com/"
 },
 {
   id: 5,
