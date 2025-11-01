@@ -90,7 +90,7 @@ export const projects = [
   id: 3,
   title: "Night flyer Golf",
   des: "A specialized online store focused on night-golf gear (LED/glow golf balls, tournament packages, accessories) with category listings, product detail pages, and checkout flow.",
-  img: "/coolglow.png",
+  img: "nightflyer_new_logo.avif",
   iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg"],
   link: "https://www.nightflyer.com/"
 },
@@ -98,7 +98,7 @@ export const projects = [
  id: 4,
   title: "Windy City Novelties",
   des: "A specialized online store focused on LED/glow golf balls, tournament packages, accessories with category listings, product detail pages, and checkout flow.",
-  img: "/coolglow.png",
+  img: "WCN_Logo_New (1).avif",
   iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg"],
   link: "https://www.windycitynovelties.com/"
 },
