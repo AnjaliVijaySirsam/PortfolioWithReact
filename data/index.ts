@@ -81,7 +81,7 @@ export const projects = [
 {
   id: 2,
   title: "Diabetic Shoes E-commerce",
-  des: "Shopify-based store for diabetes-friendly footwear, optimized for mobile performance and accessibility.",
+  des: "Custom Shopify store developed using Liquid for diabetes-friendly footwear, optimized for mobile performance and accessibility.",
   img: "/ds.png",
   iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg","/seo.jpg"],
   link: "https://diabeticshoe.in"
@@ -133,7 +133,15 @@ export const projects = [
   img: "/ph.png",
   iconLists: ["/znode.webp", "/css3.png", "/js.svg","/html.jpg"],
   link: "https://www.packaginghero.com/"
-}
+},
+  {
+    id: 9,
+  title: "Custom Shopify Theme Development",
+  des: "Developed a Shopify 2.0 storefront from scratch using Liquid with dynamic sections, reusable blocks, and responsive product and collection pages, replicating advanced eCommerce functionality without apps (Password: lucrep).",
+  img: "/shapewear-store.png",
+ iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg"],
+  link: "https://anjali-shapermint-demo.myshopify.com/"
+  }
 
 ];
 
