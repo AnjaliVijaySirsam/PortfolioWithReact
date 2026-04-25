@@ -124,7 +124,7 @@ export const projects = [
   title: "Ortho Shoes",
   des: "Informative WordPress site for orthopedic footwear with SEO-friendly structure and responsive design.",
   img: "/orthoshoe.png",
-  iconLists: ["/wordpress.svg", "/html.jpg", "/seo.jpg"],
+  iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg","/seo.jpg"],
   link: "https://orthoshoes.in/"
 },
 {
