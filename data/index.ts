@@ -6,6 +6,7 @@ export const navItems = [
 ];
 
 export const gridItems = [
+  
   {
     id: 1,
     title: "I prioritize client collaboration, fostering open communication ",
@@ -70,8 +71,16 @@ export const gridItems = [
 ];
 
 export const projects = [
-  {
+   {
   id: 1,
+  title: "Orthofeet with Shopify",
+  des: "Developed a Shopify store for orthopedic footwear, featuring responsive design, detailed product pages, and optimized user experience to support customers with foot pain solutions.",
+  img: "/Orthofeet.com_BLACK_200X40px.svg",
+ iconLists: ["/shopify.svg", "/html.jpg", "/css3.png","/js.svg","/seo.jpg"],
+  link: "https://www.orthofeet.com/"
+},
+  {
+  id: 2,
   title: "Gym App with React",
   des: "Interactive fitness app using React and exerciseDB API, allowing users to filter exercises by body part and equipment with responsive design.",
   img: "/gym.png",
@@ -79,7 +88,7 @@ export const projects = [
   link: "https://anjalivijaysirsam.github.io/GymWithReact/"
 },
 {
-  id: 2,
+  id: 3,
   title: "Diabetic Shoes E-commerce",
   des: "Custom Shopify store developed using Liquid for diabetes-friendly footwear, optimized for mobile performance and accessibility.",
   img: "/ds.png",
@@ -87,7 +96,7 @@ export const projects = [
   link: "https://diabeticshoe.in"
 },
 {
-  id: 3,
+  id: 4,
   title: "Night flyer Golf",
   des: "A specialized online store focused on night-golf gear (LED/glow golf balls, tournament packages, accessories) with category listings, product detail pages, and checkout flow.",
   img: "nightflyer_new_logo.avif",
@@ -95,7 +104,7 @@ export const projects = [
   link: "https://www.nightflyer.com/"
 },
 {
- id: 4,
+ id: 5,
   title: "Windy City Novelties",
   des: "A specialized online store focused on LED/glow golf balls, tournament packages, accessories with category listings, product detail pages, and checkout flow.",
   img: "WCN_Logo_New (1).avif",
@@ -103,7 +112,7 @@ export const projects = [
   link: "https://www.windycitynovelties.com/"
 },
 {
-  id: 5,
+  id: 6,
   title: "Oxbox Storage Shop",
   des: "WordPress-based eCommerce site for shipping containers, with integrated cart, blog, and payment features.",
   img: "/oxbox.jpg",
@@ -111,7 +120,7 @@ export const projects = [
   link: "https://oxbox.com"
 },
 {
-  id: 6,
+  id: 7,
   title: "Ortho Shoes",
   des: "Informative WordPress site for orthopedic footwear with SEO-friendly structure and responsive design.",
   img: "/orthoshoe.png",
@@ -119,7 +128,7 @@ export const projects = [
   link: "https://orthoshoes.in/"
 },
 {
-  id: 7,
+  id: 8,
   title: "NIVI Solutions Site",
   des: "Corporate website for eCommerce consulting built on WordPress, featuring clean UI and performance-optimized pages.",
   img: "/nivi.png",
@@ -127,7 +136,7 @@ export const projects = [
   link: "https://www.nivisolutions.com/"
 },
   {
-  id: 8,
+  id: 9,
   title: "Packaging Hero",
   des: "B2B eCommerce platform offering packaging supplies using Znode, built with a clean, responsive layout.",
   img: "/ph.png",
@@ -135,7 +144,7 @@ export const projects = [
   link: "https://www.packaginghero.com/"
 },
   {
-    id: 9,
+    id: 10,
   title: "Custom Shopify Theme Development",
   des: "Developed a Shopify 2.0 storefront from scratch using Liquid with dynamic sections, reusable blocks, and responsive product and collection pages, replicating advanced eCommerce functionality without apps (Password: lucrep).",
   img: "/shapewear-store.png",
